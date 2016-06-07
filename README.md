@@ -1,2 +1,3 @@
 # CSCI3308
-My first repository
+Sean O'Neal
+csci 3308 Lab 3
